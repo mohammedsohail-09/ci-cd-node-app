@@ -22,13 +22,6 @@ cd ci-cd-node-app
 
 npm init -y
 
-
-![Screenshot 2025-04-07 182055](https://github.com/user-attachments/assets/0648551f-4ca2-440e-a683-675b1aa4048c)
-
-![Screenshot 2025-04-07 184054](https://github.com/user-attachments/assets/cbddafbe-7e42-4f7a-bac5-de8e521e2430)
-
-![Screenshot 2025-04-07 184139](https://github.com/user-attachments/assets/88997304-7068-49ca-8dbd-3b0066054729)
-
 ### 3. Create index.js
 
 // index.js
